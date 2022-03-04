@@ -3,7 +3,7 @@
 
 const id = document.querySelector("#id"),
     psword = document.querySelector("#psword"),
-    loginBtn = document.querySelector("button");
+    loginBtn = document.querySelector("#button");
 
    /* console.log(id);   콘솔로그가 위의id가 실행하기 전에 먼저 실행이 되서 null값이 나옴 */
                        /*따라서 login.ejs파일에 가서 defer를 추가한다.*/
